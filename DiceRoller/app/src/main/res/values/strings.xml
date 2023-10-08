@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="roll">Roll</string>
+    <string name="_6">6</string>
+    <string name="dice2">dice2</string>
+    <string name="dice1">dice1</string>
+</resources>
